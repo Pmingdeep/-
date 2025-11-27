@@ -1,0 +1,5 @@
+{
+  "name": "ChronoPlan - 智能行程管理系统",
+  "description": "A smart itinerary management system designed for viewing and organizing schedules for various personas (students, celebrities, professionals). Features AI-powered schedule generation.",
+  "requestFramePermissions": []
+}
